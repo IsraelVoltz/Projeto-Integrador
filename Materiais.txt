@@ -1,0 +1,17 @@
+Shop Homepage
+https://startbootstrap.com/template/shop-homepage
+
+Shop Item
+https://startbootstrap.com/template/shop-item
+
+Chat
+https://www.bootdey.com/snippets/view/messages-like-material-design
+
+Login
+https://www.bootdey.com/snippets/view/blue-login
+
+Perfil
+https://www.bootdey.com/snippets/view/profile-with-data-and-skills
+
+Carrinho
+https://epicbootstrap.com/snippets/shopping-cart
